@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="8">
+            <File firstVisibleLine="42" xOffset="0" scrollWidth="775" startPos="0" endPos="3532" selMode="0" offset="0" wrapCount="1" lang="SQL" encoding="-1" userReadOnly="no" filename="C:\Users\Christ\Desktop\COMP_TA_6-A.sql" backupFilePath="" originalFileLastModifTimestamp="-1327681800" originalFileLastModifTimestampHigh="31179499" tabColourId="-1" RTL="no" tabPinned="no" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
